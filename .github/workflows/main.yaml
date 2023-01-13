@@ -1,5 +1,5 @@
 name: GitHub Actions Demo
-run-name: Kumud is testing out GitHub Actions 🚀
+run-name: kumud is testing out GitHub Actions 🚀
 on: [push]
 
 jobs:
